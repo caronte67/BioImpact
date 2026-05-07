@@ -1,92 +1,83 @@
-#Repositorio grupla de Taller de enmarcado
+# 🌱 BioImpact
 
-Este es una carpeta de los trabajos del grupo.
-recuerden siempre hacer git pull y mandar un
-mensaje que hicieron cambios
+**BioImpact** es una organización sin fines de lucro dedicada a promover el cuidado del medio ambiente a través de la educación, la acción comunitaria y la innovación sustentable.
 
-#Comision 04:
+---
 
-        #Grupo de taller enmarcado
-        -SEBASTIAN IGNACIO MONTERO
-        -Lucía Nicole Caro
-        -Lautaro Brea
-        -Nuñez Valentin Elias
+## 🌍 Nuestra misión
+Impulsar un cambio positivo en la sociedad fomentando prácticas sostenibles, conciencia ambiental y participación ciudadana activa para proteger nuestro planeta.
 
+---
 
-#Ayuda<br>
+## 👁️ Nuestra visión
+Ser una organización referente en América Latina en la lucha contra el cambio climático y la preservación de los ecosistemas, generando impacto real y medible en las comunidades.
 
-2.documentos para problemas con commits :<br> https://docs.github.com/es/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message
+---
 
-<hr>
+## 🎯 Objetivos
+- Promover la educación ambiental en escuelas y comunidades.
+- Fomentar la reducción, reutilización y reciclaje de residuos.
+- Impulsar proyectos de conservación de la biodiversidad.
+- Desarrollar iniciativas de impacto social con enfoque sustentable.
+- Generar alianzas con organizaciones, empresas y gobiernos.
 
-#organizacion de commits<br>
-utilizaremos las etiquetas de Conventional Commits para comunicar cada cambio hecho 
-en un commit.
+---
 
+## 🛠️ Áreas de acción
+### ♻️ Gestión de residuos
+Programas de reciclaje, reducción de plásticos y economía circular.
 
-fuentes de inspiracion:<br>
+### 🌳 Reforestación
+Plantación de árboles nativos y recuperación de espacios verdes.
 
--https://www.conventionalcommits.org/en/v1.0.0/
+### 📚 Educación ambiental
+Talleres, charlas y capacitaciones para todas las edades.
 
--https://midu.dev/buenas-practicas-escribir-commits-git/
+### 🌊 Protección de ecosistemas
+Acciones para preservar ríos, mares y biodiversidad local.
 
--https://github.com/KarmaPulse/git-commit-message-conventions
+---
 
-resumen:<br>
+## 🤝 Cómo participar
+Podés sumarte a BioImpact de distintas formas:
+- Como voluntario/a
+- Donando recursos o materiales
+- Difundiendo nuestras iniciativas
 
-estructuras de commits:<br>
+---
 
-Estructura 1 con alcance:
+## 💡 Proyectos destacados
+- **EcoEscuelas**: Programa educativo para instituciones.
+- **PlantAR**: Jornadas de reforestación comunitaria.
+- **Cero Residuos**: Iniciativas para reducir la generación de basura.
+- **Guardianes del Agua**: Concientización sobre el uso responsable del agua.
 
-        <TIPO>(<alcance>):ASUNTO
-        espacio en blanco
-        <cuerpo opcional>
-        espacio en blanco
-        <pie de pagina opcional>
+---
 
-<img src="assets/ejemplo.png">
+## 👥 Equipo fundador
+BioImpact está conformado por un equipo comprometido con el cambio ambiental:
 
-Estructura 2 sin alcance:
+- **Sebastian Ignacio Montero** – Enfocado en la gestión de proyectos y articulación con la comunidad.
+- **Lucía Nicole Caro** – Orientada a la educación ambiental y desarrollo de contenidos.
+- **Lautaro Brea** – Especializado en iniciativas de sustentabilidad e innovación.
+- **Nuñez Valentin Elias** – Enfocado en la coordinación de campañas y logística.
 
-        <TIPO>:ASUNTO
-        espacio en blanco
-        <cuerpo opcional>
-        espacio en blanco
-        <pie de pagina opcional>
+---
 
-TIPO: es el tipo de cambio que hace en el codigo<br>
+## 📊 Impacto
+- +10.000 personas alcanzadas en programas educativos
+- +5.000 árboles plantados
+- +20 campañas ambientales realizadas
 
-alcance: es el archivo donde se hace los cambios<br>
+---
 
-ASUNTO: es una descripcion que empieza con una palabra infinitiva<br>
-(en español) es decir verbo que termina con ar,er, ir , o imperactiva<br>
-(en ingles) que tiene como limite maximo de carecteres 50<br>
+## 📬 Contacto
+📧 contacto@bioimpact.org  
+🌐 www.bioimpact.org  
+📍 Buenos Aires, Argentina  
 
-Cuerpo: lo mismo que el ASUNTO pero mas largo, si el ASUNTO no basta<br> 
-para describir el cambio, 100 caracteres maximo por linea, pueden<br> 
-haber parrafos tanto parrafos como quieras para describir un cambio<br>
+---
 
-pie de pagina: donde se pone una etiqueta llamada  BREAKING CHANGE de<br>
- 100 caracteres maximo por linea, puede haber mas de un pie de pagina.<br>
-
-#Etiquetas:
-
-        "feat" se añadio una nueva funcion
-
-        "fix" se arreglo un error o bug
-
-        "docs" se añadio o modifica la documentacion
-
-        "chore" tarea rutirania, ejemplo: modificar gitignore o mover archivo de lugar.
-        
-        refactor: Refactorización del código como cambios de nombre de variables
-        o funciones.
-
-        "style" cambios en el codigo que no afecta la logica, ni el contexto 
-        o estado del codigo. solo afecta al codigo con espacios en blanco,
-        tabulaciones, sangria, mas lineas vacias, menos linea vacias,etc.
-
-        "test" añade una version de testeo del proyecto
-
-        "BREAKING CHANGE" o "!" : es una cambio critico, que genera
-         incompatibilidad con versiones anteriores como MAJOR.
+## ❤️ Sumate al cambio
+El futuro del planeta depende de las acciones que tomemos hoy.  
+**BioImpact** trabaja para construir un mundo más sustentable.  
